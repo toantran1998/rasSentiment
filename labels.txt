@@ -1,0 +1,13 @@
+neg
+pos
+pos
+neu
+neu
+neg
+neg
+pos
+neu
+neu
+pos
+neu
+neu
